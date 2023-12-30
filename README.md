@@ -1,6 +1,6 @@
 # My Portfolio
 
-Hey wecome to my portfolio.
+Hey welcome to my portfolio.
 
 Its coming up soon when I learn about HTML and CSS with Tanay Pratap.
 
